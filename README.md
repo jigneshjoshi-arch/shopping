@@ -1,2 +1,2 @@
 # shopping
-PAYMENT PAGE
+payment
